@@ -13,7 +13,7 @@ Below is a summarrized table:
 - Phones generate the highest revenue ($330,007), followed by Chairs ($328,449) and Storage ($223,843).
 - Other notable sub-categories include Tables and Binders, which also contribute significantly to total sales.
 
-![](https://github.com/sharifahstella/SampleSuperstore-Project-/blob/main/ProductCategory.png)
+![](https://github.com/sharifahstella/SampleSuperstore-Project-/blob/main/Product%20Subcategory.png)
 
 #### 4.	Regional Sales Trends:
 - The West region has the highest sales, totaling $725,457, followed by the East ($678,781).
