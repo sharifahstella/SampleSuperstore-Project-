@@ -27,4 +27,4 @@ Below is a summarrized table:
 - Corporate segment follows with $91,979, while Home Office is the least profitable ($60,298).
 - This suggests that targeting individual consumers may yield better profit margins compared to corporate and home office clients.
 
-![](https://github.com/sharifahstella/SampleSuperstore-Project-/blob/main/ProductCategory.png)
+![](https://github.com/sharifahstella/SampleSuperstore-Project-/blob/main/sement.png)
