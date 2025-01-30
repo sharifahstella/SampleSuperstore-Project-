@@ -39,4 +39,4 @@ Analyzing the dataset reveals that Technology accounts for the highest sales, co
 ### Conclusion 
 The initial data exploration highlights key trends that can inform marketing strategies. Focusing on high-performing product categories, optimizing sales in lower-performing regions, and targeting the most profitable customer segments can enhance marketing efficiency. Further analysis, such as segmentation and predictive modeling, could uncover deeper insights to refine strategic decisions.
 
-For those interested in developing their data analysis skills, consider applying for the HNG Internship[]( https://hng.tech/hire/data-analysts), a program dedicated to nurturing talent in data analytics and other technical fields.
+For those interested in developing their data analysis skills, consider applying for the ![HNG Internship]( https://hng.tech/hire/data-analysts), a program dedicated to nurturing talent in data analytics and other technical fields.
