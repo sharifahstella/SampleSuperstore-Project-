@@ -20,7 +20,7 @@ Below is a summarrized table:
 - The Central region generated $501,239, while the South had the lowest sales at $391,721.
 - This indicates that marketing campaigns should focus more on underperforming regions, particularly the South, to improve sales.
   
-![](https://github.com/sharifahstella/SampleSuperstore-Project-/blob/main/ProductCategory.png)
+![](https://github.com/sharifahstella/SampleSuperstore-Project-/blob/main/Region.png)
 
 #### 5.	Most Profitable Customer Segment:
 - Consumer segment is the most profitable, contributing $134,119 in total profit.
